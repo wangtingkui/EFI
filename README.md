@@ -1,0 +1,2 @@
+# EFI
+open core config
